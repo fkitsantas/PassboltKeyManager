@@ -161,8 +161,6 @@ Cryptographic operations throw `CryptographicException`. API errors throw `HttpR
 
 ## License
 
-[LICENSE]
-
 This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE 3.0 License. See [LICENSE](LICENSE) for details.
 
 ## Acknowledgements
