@@ -1,8 +1,8 @@
-# Passbolt Key Manager for C# .Net 7
+# Passbolt Key Manager for C# .Net7
 
 ## Overview
 
-The `PassboltKeyManager` for C# provides an interface to manage keys and interact with the Passbolt API. This project was initiated due to the absence of an official C# .Net SDK for Passbolt, filling a vital gap for .NET developers looking to integrate with the Passbolt ecosystem.
+The `PassboltKeyManager` for C# .Net7 provides an interface to manage keys and interact with the Passbolt API. This project was initiated due to the absence of an official C# .Net SDK for Passbolt, filling a vital gap for .NET developers looking to integrate with the Passbolt ecosystem.
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@ The `PassboltKeyManager` for C# provides an interface to manage keys and interac
 
 ## Prerequisites
 
-- .NET SDK
+- .NET 7 SDK
 - Org.BouncyCastle library
 
 ## Installation
